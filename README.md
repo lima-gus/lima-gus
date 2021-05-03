@@ -1,7 +1,7 @@
 ### hello, world
 
 
-- 📚 I'm an system analysis and development student @ Senac;
+- 📚 I'm a system analysis and development student @ Senac;
 - 🖤 Passionate about web and mobile development;
 - 🎓 Currently dedicated on learning front-end technologies;
 ##
