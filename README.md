@@ -2,7 +2,6 @@
 
 
 - 📚 I'm a system analysis and development student @ Senac;
-- 🖤 Passionate about web and mobile development;
 - 🎓 Currently dedicated on learning back-end technologies;
 ##
 
