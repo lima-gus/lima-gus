@@ -2,7 +2,7 @@
 
 
 - 📚 I'm a system analysis and development student @ Senac;
-- 🎓 Currently dedicated on learning back-end technologies;
+- 🎓 Currently dedicated on learning front-end technologies;
 ##
 
 ### find me
