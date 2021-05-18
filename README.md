@@ -1,8 +1,17 @@
 ### hello, world
 
+// Interests
+["💻", "🎮", "🏎️", "📈", "🎸", "🚴"]
 
-- 📚 I'm a system analysis and development student @ Senac;
-- 🎓 Currently dedicated on learning front-end technologies;
+// Languages & tools 👨🏽‍💻
+["JavaScript", "NodeJS", "Git"]
+
+// What I'm learning 📚
+["React", "jQuery", "Bootstrap", "Firebase", "MongoDB", "Electron"]
+
+// Subjects that I'm interested 🖤
+["Front-end Development", "Clean Code"]
+
 ##
 
 ### find me
