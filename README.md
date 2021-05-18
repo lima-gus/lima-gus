@@ -1,15 +1,15 @@
 ### hello, world
 
-// Interests
+// Interests  
 ["💻", "🎮", "🏎️", "📈", "🎸", "🚴"]
 
-// Languages & tools 👨🏽‍💻
+// Languages & tools 👨🏽‍💻  
 ["JavaScript", "NodeJS", "Git"]
 
-// What I'm learning 📚
+// What I'm learning 📚  
 ["React", "jQuery", "Bootstrap", "Firebase", "MongoDB", "Electron"]
 
-// Subjects that I'm interested 🖤
+// Subjects that I'm interested 🖤  
 ["Front-end Development", "Clean Code"]
 
 ##
