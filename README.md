@@ -11,7 +11,7 @@
 
 <br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lima-gus&show_icons=true&theme=dark&locale=pt-BR" alt="lima-gus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lima-gus&show_icons=true&theme=dark&locale=pt-BR" alt="lima-gus" /></p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lima-gus&show_icons=true&theme=dark&locale=pt-BR&layout=compact" alt="lima-gus" /></p>
 
 <br>
