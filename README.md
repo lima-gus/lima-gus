@@ -1,6 +1,6 @@
 <h1>Hello, World!</h1>
 
-<p>📚 I'm a web development student @ Trybe</p>
+<p>📚 I'm a student @ <a href="https://www.betrybe.com/"> Trybe</a>;</p> 
 <p>🎓 Currently dedicated on learning front-end technologies;</p>
 <p>🖤 Passionate about web and mobile development;</p>
 
