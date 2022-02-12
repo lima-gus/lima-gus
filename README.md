@@ -19,15 +19,11 @@
 ##
 <p>
   <a href="https://linkedin.com/in/lima-gus" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lima-gus"/></a>
-  <a href="mailto:lima_gus@outlook.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="e-mail"/></a>
-<!-- <a href="https://lima-gus.github.io/" target="_blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="lima-gus"/></a> -->
 </p>
 
 <!-- 
   <img height="30" width="40" alt="nextjs" title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img height="30" width="40" alt="heroku" title="Heroku" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
   <img height="30" width="40" alt="typescript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" width="40" alt="mongodb" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img height="30" width="40" alt="python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 -->
 
