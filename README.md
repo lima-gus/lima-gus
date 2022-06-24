@@ -1,7 +1,7 @@
 <h1 align="center"> hello, world! <img height="30" width="30" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" /> </h1>
 
 <p>📚 I'm a student @ <a href="https://www.betrybe.com/"> Trybe</a>;</p> 
-<p>🎓 Currently learning back-end technologies;</p>
+<p>🎓 Currently learning python;</p>
 <p>🖤 Passionate about web and mobile development;</p>
 
 ##
