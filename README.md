@@ -5,8 +5,9 @@ I'm a student at [Trybe](https://www.betrybe.com/) </br>
 Currently learning [Python](https://www.python.org/) </br>
 Aiming to become a front-end engineer
 
-### Get in touch ⬇️
+### Find me ⬇️
 
+[Site](https://lima-gus.vercel.app/) </br>
 [LinkedIn](https://linkedin.com/in/lima-gus) </br>
 
 ### My toolbox 💻
