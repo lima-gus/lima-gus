@@ -7,7 +7,7 @@ Aiming to become a front-end engineer
 
 ### Find me ⬇️
 
-[Site](https://lima-gus.vercel.app/) </br>
+[Site](https://hellogus.tech/) </br>
 [LinkedIn](https://linkedin.com/in/lima-gus) </br>
 
 ### My toolbox 💻
