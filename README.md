@@ -12,18 +12,13 @@ Aiming to become a front-end engineer
 
 ### My toolbox 💻
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white) </br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) </br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Jest](https://skillicons.dev/icons?i=jest) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=expressjs) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### My stats ⭐
 <details>
-  <summary>Click me :)</summary>
+  <summary>Github stats ⭐</summary>
   </br>
   <p align="center"> 
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lima-gus&show_icons=true&count_private=true&theme=dark" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima-gus&layout=compact&theme=dark&langs_count=5" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lima-gus&show_icons=true&count_private=true&theme=react&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima-gus&layout=compact&theme=react&hide_border=true&langs_count=5" />
   </p> 
 </details>
