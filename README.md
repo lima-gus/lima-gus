@@ -12,13 +12,15 @@ Aiming to become a front-end engineer
 
 ### My toolbox 💻
 
-![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Jest](https://skillicons.dev/icons?i=jest) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=expressjs) ![MySQL](https://skillicons.dev/icons?i=mysql)
+|   Languages  |    Frontend    |    Backend    |  Databases   |  Tests  |    General    |
+|    :---:     |     :---:      |     :---:     |    :---:     |        :---:          |         :---:        |
+| <img alt="JavaScript" height="40" width="40" src="https://skillicons.dev/icons?i=js"> <img alt="TypeScript" height="40" width="40" src="https://skillicons.dev/icons?i=ts"> <img alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=python"> | <img alt="React" height="40" width="40" src="https://skillicons.dev/icons?i=react"> <img alt="Redux" height="40" width="40" src="https://skillicons.dev/icons?i=redux"> <img alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html"> <img alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css"> <img alt="Sass" height="40" width="40" src="https://skillicons.dev/icons?i=sass">    | <img alt="Node.js" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"> <img alt="Express" height="40" width="40" src="https://skillicons.dev/icons?i=expressjs"> | <img alt="Mysql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"> <img alt="MongoDB" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">| <img alt="Github" height="40" width="40" src="https://skillicons.dev/icons?i=jest"> | <img alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git"> <img alt="Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker"> <img alt="VSCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode">|
 
 <details>
   <summary>Github stats ⭐</summary>
   </br>
-  <p align="center"> 
+  <p> 
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lima-gus&show_icons=true&count_private=true&theme=react&hide_border=true" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima-gus&layout=compact&theme=react&hide_border=true&langs_count=6" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lima-gus&layout=compact&theme=react&hide_border=true&langs_count=8&count_private=true" />
   </p> 
 </details>
