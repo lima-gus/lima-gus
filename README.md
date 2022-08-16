@@ -1,9 +1,9 @@
 
 ### Hey, my name is Gustavo! 👋
 
-I'm a student at [Trybe](https://www.betrybe.com/) </br>
-Currently learning [Python](https://www.python.org/) </br>
-Passionate about web and mobile development. Aiming to become a front-end engineer
+I'm a graduated full stack developer by [Trybe](https://www.betrybe.com/) </br>
+Currently improving my frontend skills </br>
+Passionate about web and mobile development. Aiming to become a front-end engineer.
 
 ### Find me ⬇️
 
