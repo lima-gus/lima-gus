@@ -2,7 +2,7 @@
 ### Hey, my name is Gustavo! 👋
 
 I'm a full stack developer graduated at [Trybe](https://www.betrybe.com/) </br>
-Currently improving my front-end skills </br>
+Currently improving my front-end skills and learning react native </br>
 Passionate about web and mobile development. Aiming to become a front-end engineer.
 
 ### Find me ⬇️
