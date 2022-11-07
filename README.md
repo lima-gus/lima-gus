@@ -7,7 +7,6 @@ Passionate about web and mobile development. Aiming to become a front-end engine
 
 ### Find me ⬇️
 
-[Site](https://hellogus.tech/) </br>
 [LinkedIn](https://linkedin.com/in/lima-gus) </br>
 
 <details>
