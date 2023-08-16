@@ -1,8 +1,8 @@
 
 ### Hey, my name is Gustavo! 👋
 
-Currently improving my back-end skills and studying Information Systems at Universidade São Judas Tadeu.</br>
-Aiming to become a back-end developer.
+Studying Information Systems at Universidade São Judas Tadeu.</br>
+Currently interested in learning about cybersecurity.
 
 ### Find me ⬇️
 
