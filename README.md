@@ -1,7 +1,7 @@
 
 ### Hey, my name is Gustavo! 👋
 
-Studying Information Systems at Universidade São Judas Tadeu.</br>
+Studying Information Security at Pontifícia Universidade Católica (PUC-MG).</br>
 Currently interested in learning about cybersecurity.
 
 ### Find me ⬇️
