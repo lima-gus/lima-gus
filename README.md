@@ -1,7 +1,7 @@
 
 ### Hey, my name is Gustavo! 👋
 
-Studying Information Security at Pontifícia Universidade Católica (PUC-MG).</br>
+Studying Computer Science @ Descomplica.</br>
 Currently interested in learning about cybersecurity.
 
 ### Find me ⬇️
